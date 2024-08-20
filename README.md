@@ -46,23 +46,18 @@ MANTRA DIRAJA is an upgrade from original ShellPhish Tool (https://shellphish.ne
 ## Legal disclaimer:
 Usage of BlackEye for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
 
-### Usage:
-```
-curl -O http://dsvr.mantradiraja.cloud/alld/mantradiraja.zip
-cd mantradiraja
-bash mantradiraja.sh
-```
+
 ### Usage PowerShell:
 ```
 Invoke-WebRequest -Uri http://dsvr.mantradiraja.cloud/alld/mantradiraja.zip -OutFile mantradiraja.zip
 cd mantradiraja
-bash mantradiraja.sh
+bash mantra.sh
 ```
-### Usage Termux:
+### Usage Termux,Kali Linux and More:
 ```
-git clone https:github.com/SecretCompany777/mantradiraja
+git clone https://github.com/SecretCompany777/mantradiraja.git
 cd mantradiraja
-bash mantradiraja.sh
+bash mantra.sh
 ```
 ### S E C R E T  D I R A J A
 
