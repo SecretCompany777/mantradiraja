@@ -4,6 +4,7 @@
 WELCOME TO SECRET DIRAJA
 
 -----------------------------------------------------------------------------------------------------------------------------
+![alt text](https://raw.githubusercontent.com/SecretCompany777/mantradiraja/main/img/mantradiraja.png)
 ![alt text](https://raw.githubusercontent.com/SecretCompany777/mantradiraja/main/img/mantradiraja7.png)
 
 23:08:2024  Preview Update
